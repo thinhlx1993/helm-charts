@@ -3,12 +3,12 @@ entries:
   va-engine:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-09T00:31:00.661275+07:00"
+    created: "2023-11-09T00:48:24.72178+07:00"
     description: A Helm chart for Automate VA Engine Deployment
-    digest: c216c47a64e3795fb8b8796ba23fc0ef7f2e4371da952be02b71d7c97eaa4a4c
+    digest: 07765455e10942224690aadd95a6cdf0439198f967f6f93edc39787374793f23
     name: va-engine
     type: application
     urls:
     - https://github.com/thinhlx1993/helm-charts/va-engine-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-09T00:31:00.660356+07:00"
+generated: "2023-11-09T00:48:24.721379+07:00"
